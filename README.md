@@ -1,5 +1,5 @@
+<h1 align="center">Python based Mail sender.✌️👍</h1>
 
-`Python based Mail sender.✌️👍`
 
 `It is a Python based advanced mailer for sending mails to many recipients.🙂
 `
